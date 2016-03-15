@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 333d9d89778db1f4ca45678dfaaad06c
+timeCreated: 1452822782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chair
+    100004: desk
+    100006: keypad
+    100008: keypad_001
+    100010: keypad_002
+    100012: keypad_003
+    100014: keypad_004
+    100016: keypad_005
+    100018: Plane
+    100020: sofa
+    100022: table
+    400000: //RootNode
+    400002: chair
+    400004: desk
+    400006: keypad
+    400008: keypad_001
+    400010: keypad_002
+    400012: keypad_003
+    400014: keypad_004
+    400016: keypad_005
+    400018: Plane
+    400020: sofa
+    400022: table
+    2300000: //RootNode
+    2300002: chair
+    2300004: desk
+    2300006: keypad
+    2300008: keypad_001
+    2300010: keypad_002
+    2300012: keypad_003
+    2300014: keypad_004
+    2300016: keypad_005
+    2300018: Plane
+    2300020: sofa
+    2300022: table
+    3300000: //RootNode
+    3300002: chair
+    3300004: desk
+    3300006: keypad
+    3300008: keypad_001
+    3300010: keypad_002
+    3300012: keypad_003
+    3300014: keypad_004
+    3300016: keypad_005
+    3300018: Plane
+    3300020: sofa
+    3300022: table
+    4300000: Plane
+    4300002: keypad_005
+    4300004: keypad_004
+    4300006: keypad_003
+    4300008: keypad_002
+    4300010: keypad_001
+    4300012: chair
+    4300014: desk
+    4300016: keypad
+    4300018: table
+    4300020: sofa
+    6400000: //RootNode
+    6400002: chair
+    6400004: desk
+    6400006: keypad
+    6400008: keypad_001
+    6400010: keypad_002
+    6400012: keypad_003
+    6400014: keypad_004
+    6400016: keypad_005
+    6400018: Plane
+    6400020: sofa
+    6400022: table
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
